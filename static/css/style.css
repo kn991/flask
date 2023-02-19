@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+
+img {
+    width: 30%;
+}
+
+.first {
+    background-color: gray;
+}
+
+.second {
+    background-color: lightgreen;
+}
+
+.third {
+    background-color: lightgrey;
+}
+
+.fourth {
+    background-color: palegoldenrod;
+}
+
+.fifth {
+    background-color: tomato;
+}
